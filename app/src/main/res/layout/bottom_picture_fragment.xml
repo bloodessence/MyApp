@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:ems="10"
+        android:ems="12"
         android:inputType="textPersonName"
         android:text="@string/top"
         android:textColor="#FFF"/>
@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
-        android:ems="10"
+        android:ems="12"
         android:gravity="center_horizontal"
         android:inputType="textPersonName"
         android:text="@string/bottom"
