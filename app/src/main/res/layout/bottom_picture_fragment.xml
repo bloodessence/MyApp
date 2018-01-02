@@ -3,7 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/woman">
+    android:background="@drawable/woman"
+    android:gravity="center">
 
     <EditText
         android:id="@+id/topMeme"
@@ -14,8 +15,7 @@
         android:ems="10"
         android:inputType="textPersonName"
         android:text="@string/top"
-        android:textColor="#FFF"
-        android:gravity="center_horizontal"/>
+        android:textColor="#FFF"/>
 
     <EditText
         android:id="@+id/bottomMeme"
